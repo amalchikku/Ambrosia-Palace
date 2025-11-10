@@ -1,5 +1,5 @@
-import React from "react";
-import NavBar from "../components/navBar";
+
+import NavBar from "../components/NavBar";
 import HeroBanner from "../components/HeroBanner";
 import SectionGrid from "../components/HomeSections/SectionGrid";
 import Food3 from "../assets/hd3.jpg";

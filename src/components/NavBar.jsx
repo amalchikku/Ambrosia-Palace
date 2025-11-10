@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import SectionGrid from "./HomeSections/SectionGrid";
+import  { useState } from "react";
 import Logo from "../assets/LOGO.jpg";
 import { Link } from "react-router-dom";
 

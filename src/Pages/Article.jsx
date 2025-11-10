@@ -1,5 +1,4 @@
-import React from "react";
-import NavBar from "../components/navBar";
+import NavBar from "../components/NavBar";
 import HeroBanner from "../components/HeroBanner";
 import Footer from "../components/HomeSections/Footer";
 import ParagraphArticle from "../components/ArticleSection/ParagraphArticle";
